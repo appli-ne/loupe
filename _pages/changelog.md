@@ -7,6 +7,13 @@ include_in_header: true
 # `Release notes`
 <br>
 
+## **Version 1.2.3**
+2020/07/07
+- Improved app update checking
+- Bug fixes
+
+<br>
+
 ## **Version 1.2.2**
 2020/07/04
 - Long tap the pause preview button to save a still image
