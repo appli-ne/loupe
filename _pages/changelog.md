@@ -7,6 +7,14 @@ include_in_header: true
 # `Release notes`
 <br>
 
+## **Version 1.2.4**
+2020/07/22
+- Improved stability
+- Added notice
+- Ads optimization
+
+<br>
+
 ## **Version 1.2.3**
 2020/07/07
 - Improved app update checking
