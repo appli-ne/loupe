@@ -8,10 +8,11 @@ include_in_header: true
 <br>
 
 ## **Version 1.2.4**
-2020/07/22
+2020/07/24
 - Improved stability
 - Added notice
 - Ads optimization
+- Fixed a bug that does not start due to a camera error
 
 <br>
 
