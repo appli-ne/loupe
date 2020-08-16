@@ -7,6 +7,14 @@ include_in_header: true
 # `Release notes`
 <br>
 
+## **Version 1.3.0**
+2020/08/16
+- Added camera switch (Mirror app) button
+- Bug fix for ads hiding
+- Bug fixes
+
+<br>
+
 ## **Version 1.2.4**
 2020/07/24
 - Improved stability
