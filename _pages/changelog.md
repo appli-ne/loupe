@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.3.1**
+2020/09/07
+- Message display to install the mirror app when switching cameras
+- Support Adaptive Banners
+- Bug fixes
+
+<br>
+
 ## **Version 1.3.0**
 2020/08/16
 - Added camera switch (Mirror app) button
