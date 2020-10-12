@@ -2,9 +2,17 @@
 layout: page
 title: Release notes
 include_in_header: false
+date: 2020-10-12 13:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.3.2**
+2020/10/12
+- Fixed a bug that returned to the mirror app when the app was closed
+- Fixed a bug where the same notice was displayed many times
+
 <br>
 
 ## **Version 1.3.1**
