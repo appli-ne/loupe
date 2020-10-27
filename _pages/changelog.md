@@ -2,14 +2,15 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2020-10-26 16:00
+date: 2020-10-27 12:00
 ---
 
 # `Release notes`
 <br>
 
 ## **Version 1.4.0**
-2020/10/26
+2020/10/27
+- Fixed a bug where buttons overlap
 - Stability improvement and optimization
 - Change in-app purchase to subscription
 ---
