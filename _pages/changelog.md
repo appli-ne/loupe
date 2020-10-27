@@ -13,6 +13,7 @@ date: 2020-10-27 12:00
 - Fixed a bug where buttons overlap
 - Stability improvement and optimization
 - Change in-app purchase to subscription
+
 ---
 <br>
 
@@ -20,6 +21,7 @@ date: 2020-10-27 12:00
 2020/10/12
 - Fixed a bug that returned to the mirror app when the app was closed
 - Fixed a bug where the same notice was displayed many times
+
 ---
 <br>
 
@@ -28,6 +30,7 @@ date: 2020-10-27 12:00
 - Message display to install the mirror app when switching cameras
 - Support Adaptive Banners
 - Bug fixes
+
 ---
 <br>
 
@@ -36,6 +39,7 @@ date: 2020-10-27 12:00
 - Added camera switch (Mirror app) button
 - Bug fix for ads hiding
 - Bug fixes
+
 ---
 <br>
 
@@ -45,6 +49,7 @@ date: 2020-10-27 12:00
 - Added notice
 - Ads optimization
 - Fixed a bug that does not start due to a camera error
+
 ---
 <br>
 
@@ -52,6 +57,7 @@ date: 2020-10-27 12:00
 2020/07/07
 - Improved app update checking
 - Bug fixes
+
 ---
 <br>
 
@@ -61,12 +67,14 @@ date: 2020-10-27 12:00
 - App update check added
 - Added release notes
 - Bug fixes
+
 ---
 <br>
 
 ## **Version 1.2.1**
 2020/05/13
 - Bug fixes
+
 ---
 <br>
 
@@ -75,23 +83,27 @@ date: 2020-10-27 12:00
 - Color filter function added
 - Fixed to be able to zoom while paused
 - Bug fixes
+
 ---
 <br>
 
 ## **Version 1.1.0**
 2020/03/30
 - Fixed a crash bug when pausing in some environments
+
 ---
 <br>
 
 ## **Version 1.0.1**
 2020/03/27
 - Bug fixes
+
 ---
 <br>
 
 ## **Version 1.0.0**
 2020/03/25
 - Initial release
+
 ---
 <br>
