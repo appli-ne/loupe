@@ -1,5 +1,5 @@
 #page title
-page_title                                : Magnifying glass App - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 【Magnifying glass / Telescope App Free】Recommended magnifying glass and telescope camera apps - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -14,7 +14,7 @@ lang_name                                 : 日本語
 lang_link                                 : ../loupe-ja/
 
 app_icon                                  : assets/ic_launcher.png                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Magnifying glass                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Magnifying glass              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : This is a magnifying glass(loupe) app. It can be used as a telescope or binoculars!<br>Free and easy to use!
 
