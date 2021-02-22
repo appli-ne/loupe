@@ -27,7 +27,7 @@ your_name                                 : appli-ne（アプリね）
 your_link                                 : https://appli-ne.github.io/
 your_city                                 : Japan                                
 email_address                             : info.appline.jp@gmail.com
-facebook_username                         :                                           
+facebook_username                         : appline.jp                                          
 instagram_username                        : 
 twitter_username                          : appli_ne
 github_username                           : appli-ne
@@ -38,12 +38,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : New!!!
-    description                           : Android 11 Support<br>Dark theme is now supported!
-    fontawesome_icon_name                 : info-circle
-
   - title                                 : Color filter
-    description                           : Easy to see with color filter!<br>(Negative, Gray Scale, Sepia, Bitray)
+    description                           : Easy to see with color filter!<br>(Negative, Gray Scale, Sepia, Binary)
     fontawesome_icon_name                 : info-circle
 
   - title                                 : Pause preview
@@ -77,6 +73,10 @@ features                                  :
   - title                                 : Sharing still image
     description                           : Share a still image.
     fontawesome_icon_name                 : share-alt
+
+  - title                                 : Other
+    description                           : Dark theme is now supported!
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Supported OS
     description                           : Android 5.0 or later
