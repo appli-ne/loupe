@@ -38,6 +38,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Guide view (x1 display)
+    description                           : It will be easier to zoom in the guide view.
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : Color filter
     description                           : Easy to see with color filter!<br>(Negative, Gray Scale, Sepia, Binary)
     fontawesome_icon_name                 : info-circle
