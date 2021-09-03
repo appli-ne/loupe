@@ -2,10 +2,18 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-08-11 17:00
+date: 2021-09-03 17:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.8.1**
+2021/09/03
+- Fixed a bug that still images are not displayed
+- Fixed ad display timing
+
+---
 <br>
 
 ## **Version 1.8.0**
