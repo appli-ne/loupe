@@ -2,10 +2,19 @@
 layout: page
 title: Release notes
 include_in_header: false
-date: 2021-12-18 23:00
+date: 2022-01-26 18:00
 ---
 
 # `Release notes`
+<br>
+
+## **Version 1.9.1**
+2022/01/26
+- Guide display related improvements
+- Ad optimization
+- Bug fixes
+
+---
 <br>
 
 ## **Version 1.9.0**
