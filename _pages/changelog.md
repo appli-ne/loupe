@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.9.3**
+2022/03/28
+- Stability improvement and optimization
+- Fixed the message
+
+---
+<br>
+
 ## **Version 1.9.2**
 2022/02/06
 - Improved the display timing of ads
