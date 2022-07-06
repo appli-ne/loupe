@@ -7,6 +7,14 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.9.4**
+2022/07/06
+- Corrected error handling when starting the camera
+- Bug fixes
+
+---
+<br>
+
 ## **Version 1.9.3**
 2022/03/28
 - Stability improvement and optimization
