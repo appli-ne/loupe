@@ -7,6 +7,15 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.10.0**
+2023/05/11
+- Ad optimization
+- Bug fixes
+- Android13 support
+
+---
+<br>
+
 ## **Version 1.9.4**
 2022/07/06
 - Corrected error handling when starting the camera
