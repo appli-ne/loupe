@@ -1,5 +1,5 @@
 #page title
-page_title                                : 【Magnifying glass / Telescope App Free】Recommended magnifying glass and telescope camera apps - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 【Magnifying glass / Telescope App Free】Recommended magnifying glass and telescope camera apps - appli-ne?��アプリね?�? # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,7 +10,7 @@ playstore_qr                              : assets/QR_loupe.png
 presskit_download_name                    : Home
 presskit_download_link                    : ../index-en.html                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
-lang_name                                 : 日本語
+lang_name                                 : 日本�?
 lang_link                                 : ../loupe-ja/
 
 app_icon                                  : assets/ic_launcher.png                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : appli-ne（アプリね）                                
+your_name                                 : appli-ne?��アプリね?�?                                
 your_link                                 : https://appli-ne.github.io/
 your_city                                 : Japan                                
 email_address                             : info.appline.jp@gmail.com
@@ -83,7 +83,7 @@ features                                  :
     fontawesome_icon_name                 : info-circle
 
   - title                                 : Supported OS
-    description                           : Android 5.0 or later<br>Android 13 Support
+    description                           : Android 5.0 or later<br>Android 14 Support
     fontawesome_icon_name                 : mobile-alt
 
   - title                                 : # New Feature Title
