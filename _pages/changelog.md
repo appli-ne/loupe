@@ -7,6 +7,15 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.11.0**
+2024/08/26
+- Speeded up processing at startup
+- Bug fixes
+- Android14 support
+
+---
+<br>
+
 ## **Version 1.10.0**
 2023/05/11
 - Ad optimization
