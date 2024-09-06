@@ -7,6 +7,13 @@ include_in_header: false
 # `Release notes`
 <br>
 
+## **Version 1.11.1**
+2024/09/06
+- Fixes to startup process
+
+---
+<br>
+
 ## **Version 1.11.0**
 2024/08/26
 - Speeded up processing at startup
